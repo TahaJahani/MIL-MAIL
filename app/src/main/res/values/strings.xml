@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MILMAIL</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+</resources>
